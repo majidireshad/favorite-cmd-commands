@@ -2,4 +2,3 @@ $ ping = Used in enable mode to diagnose basic network connectivity
 $ pwd = Shows the directory you are in.
 $ git commit -m "commit message" = adding new commit to repository
 $ git status = shows the status of the commits in a repository.
-$ 
